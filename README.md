@@ -1,0 +1,2 @@
+# gameinfo
+Games info Server
